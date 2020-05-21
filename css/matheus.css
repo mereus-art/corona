@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Josefin+Sans:ital,wght@1,100&display=swap');
+.giu {
+    color: #f0f8ff;
+}
+
+.bg-title {
+    /*background-image: linear-gradient(to bottom right, #2d3436, #00b894);*/
+    background: url('../img/coroninha.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.text-title {
+    font-family: 'Akronim', 'cursive';
+    font-size: 6.2em;
+}
+
+.text-js {
+    font-family: 'Raleway', 'sans-serif';
+    font-size: 1.6em;
+}
+
+.titulo {
+    color: black;
+    font-family: 'Zilla Slab', serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #606060;
+}
+
+.menu {
+    background-image: linear-gradient(to bottom right, rgb(44, 38, 38), #636e72);
+    opacity: 0.8;
+}
+
+.subtitulo {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+}
+
+.rodape {
+    background-image: linear-gradient(to bottom right, rgb(44, 38, 38), #636e72);
+    opacity: 0.8;
+    color: rgb(184, 184, 184);
+    height: 5em;
+}
+
+.imagem1 {
+    border-radius: 19px;
+    margin-top: -30%;
+    height: 350px;
+    opacity: 0.9;
+
+}
+
+.imagem2 {
+    height: 10em;
+    
+}
+
+.kk {
+    background-color: #45595E;
+    display: flex; 
+    height: 160px;
+    
+}
+
+.maos {
+    border-radius: 20px;
+}
+.iimg {
+     z-index: 99;
+     margin-top: 60%;
+     position: absolute;
+}
+
+.imgg{
+    z-index: 99;
+     margin-top: 22%;
+     position: absolute;
+     margin-left: -76% ;
+     width: 350px;
+     border-radius: 30px;
+}
+
